@@ -1,0 +1,4 @@
+# Ignore following folders
+
+# Ignore following files
+variable.tf
